@@ -1,4 +1,5 @@
 # ChessGame
+For my Angular project, I focused on practicing Object-Oriented Programming (OOP) principles by developing a structured application. I created multiple classes to represent various entities, utilizing core OOP concepts like encapsulation, inheritance, and polymorphism. These classes interacted within the Angular framework to manage data flow, user interaction, and dynamic UI updates. The project also integrated Angular services to handle business logic, ensuring a clear separation of concerns and promoting reusable, maintainable code. Through this project, I reinforced my understanding of OOP within a modern front-end framework.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.2.
 
@@ -25,3 +26,6 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+## Screenshots 
+![Screenshot 2024-09-24 at 10 47 12 PM](https://github.com/user-attachments/assets/474a1687-e64c-4c66-ac01-78fcc222101a)
